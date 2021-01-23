@@ -3,3 +3,5 @@
 log_test/
 result_1024
 
+/__pycache__
+
